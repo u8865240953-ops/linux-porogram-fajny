@@ -1,2 +1,2 @@
-cd /home/makspi/Obrazy/.elo/
+cd .elo/
 xdg-open elo.png
